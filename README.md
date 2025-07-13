@@ -8,8 +8,8 @@
 
 ---
 
-📖 “Porque dele, e por ele, e para ele, são todas as coisas.”  
-<sub>Romanos 11:36 – ARA</sub>
+<h6 align="center">📖 “Porque dele, e por ele, e para ele, são todas as coisas.” </h6> 
+<sub align="right">Romanos 11:36 – ARA</sub>
 
 ---
 
@@ -30,10 +30,9 @@
 
 ## 📁 Repositórios em destaque
 Projetos feitos com dedicação e propósito:
-- Calculadora de orçamento
-- Tela de login com validação
-- Landing pages simples
-- Relógio digital estilizado
+- Calculadora de Dízimo 
+- Link Bio Personalizado 
+- Horas Trabalhada 
 - E outros projetos em breve...
 
 ## 🎯 Objetivo
