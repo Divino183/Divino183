@@ -8,8 +8,8 @@
 
 ---
 
-<h6 align="center">📖 “Porque dele, e por ele, e para ele, são todas as coisas.” </h6> 
-<sub align="right">Romanos 11:36 – ARA</sub>
+<h4 align="center">📖 “Porque dele, e por ele, e para ele, são todas as coisas.” </h4> 
+<sub align="left">Romanos 11:36 – ARA</sub>
 
 ---
 
