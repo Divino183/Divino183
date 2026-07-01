@@ -60,14 +60,18 @@ Projetos feitos com dedicação e propósito:
 Desejo me tornar um desenvolvedor front-end completo, dominando as tecnologias web e, futuramente, aprendendo back-end com Node.js e banco de dados.
 
 ## 📫 Contato
-<a href="mailto:valdivinog183@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-valdivinog183-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<br>
-<a href="https://www.tiktok.com/@divino_183" target="_blank">
+  <a href="www.linkedin.com/in/valdivinog" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Divino%20Gomes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
+  <a href="mailto:valdivinog183@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-valdivinog183-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br>
+  <a href="https://www.tiktok.com/@divino_183" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@divino__183-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-
+  </a>
+  
 ##
 
 🧠 *Aprender programação é um passo de cada vez. Cada erro é uma chance de crescer. E com fé, tudo é possível!*
