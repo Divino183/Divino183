@@ -61,7 +61,7 @@ Desejo me tornar um desenvolvedor front-end completo, dominando as tecnologias w
 
 ## 📫 Contato
 <a href="mailto:valdivinog183@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-valdivinog183%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-valdivinog183-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <br>
 <a href="https://www.tiktok.com/@divino_183" target="_blank">
